@@ -1,0 +1,16 @@
+{
+  "name": "ระบบช่วยจำอุ่นใจ (Memory Assistant)",
+  "short_name": "ช่วยจำอุ่นใจ",
+  "description": "ระบบช่วยจำอัจฉริยะ บันทึกนัดหมาย กินยา และเบอร์โทรด่วน",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#FFFFFF",
+  "theme_color": "#0052CC",
+  "icons": [
+    {
+      "src": "icon.png",
+      "sizes": "192x192 512x512",
+      "type": "image/png"
+    }
+  ]
+}
